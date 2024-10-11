@@ -1,12 +1,9 @@
-# COOPER WORD
-
-![home](https://github.com/user-attachments/assets/dfb10eaf-c687-4743-a450-fbe28920373c)
-![events](https://github.com/user-attachments/assets/ee6e26ef-700c-4e2b-8372-1b1fddbd7944)
+# BlueSky
 
 
 ## Table of Contents
 
-- [COOPER WORD](#cooper-word)
+- [BlueSky](#cooper-word)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Features](#features)
@@ -22,13 +19,7 @@
 
 ## Overview
 
-The **COOPER WORD** is a web-based tool designed to help users create, manage, and view events in a calendar format. Built using **React**, **Next.js**, and **TypeScript**, this application provides a user-friendly interface with intuitive functionality for effective event management.
-
-## Demo Part 1 & 2
-
-[![DEMO VIDEO](https://img.youtube.com/vi/Z5wQipy6GjU/0.jpg)](https://www.youtube.com/watch?v=Z5wQipy6GjU)
-
-[![Demo video](https://img.youtube.com/vi/SRBzNzywWY4/0.jpg)](https://youtu.be/SRBzNzywWY4?si=4OJ1oZoYrgo4rmgu)
+The **BluSky** is a web-based tool designed to help users create, manage, and view events in a calendar format. Built using **React**, **Next.js**, and **TypeScript**, this application provides a user-friendly interface with intuitive functionality for effective event management.
 
 ## Features
 
