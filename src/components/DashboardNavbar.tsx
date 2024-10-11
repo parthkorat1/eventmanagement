@@ -24,7 +24,7 @@ const DashboardNavbar = () => {
     return (
         <nav className="p-4 bg-transparent flex items-center justify-between relative">
             <Link href="/" className="flex items-center">
-                <h1 className={cn("text-2xl font-bold text-white", font.className)}>Cooper Word</h1>
+                <h1 className={cn("text-2xl font-bold text-white", font.className)}>BlueSky</h1>
             </Link>
             <div className="hidden md:flex items-center gap-x-4">
                 <Link href="/chat" className="flex items-center">

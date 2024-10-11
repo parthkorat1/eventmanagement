@@ -7,7 +7,7 @@ const Footer = () => {
       style={{ borderTop: "1px solid #ffffff20" }}
     >
       <div className="footer-section1 flex flex-col gap-2">
-        <h3 className="text-[20px] font-semibold text-white">Cooper Word</h3>
+        <h3 className="text-[20px] font-semibold text-white">BlueSky</h3>
         <p className="text-sm text-white opacity-75">
           Get started with our event management solution and start building your project.
         </p>
